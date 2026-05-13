@@ -1,7 +1,9 @@
-# Hi, I'm Preeti Narayansa Malji 👋
+<h1 align="center">Hi, I'm Preeti Narayansa Malji 👋</h1>
+<h3 align="center">Data Analyst | SQL • Power BI • Excel</h3>
 
-Data Analyst focused on transforming raw data into actionable business insights.  
-I work with SQL, Excel, and Power BI to analyze user behavior, optimize funnels, and support data-driven decisions across e-commerce and financial domains.
+<p align="center">
+Turning data into actionable business insights across e-commerce and financial domains
+</p>
 
 ## 🛠 Skills
 
@@ -43,3 +45,5 @@ I work with SQL, Excel, and Power BI to analyze user behavior, optimize funnels,
 
 - LinkedIn: www.linkedin.com/in/preetimalji 
 - Email: preetinmalji@gmail.com
+
+
