@@ -30,7 +30,7 @@ Turning data into actionable business insights across e-commerce and financial d
 
 ## 📊 Featured Projects
 
-### 🟦 E-Commerce Profitability & Funnel Optimization
+### E-Commerce Profitability & Funnel Optimization
 - Identified ~60% funnel drop-off (View → Cart)  
 - Quantified ₹3.9M revenue leakage opportunity  
 - Revealed ~67% loss-making orders  
@@ -39,7 +39,7 @@ Turning data into actionable business insights across e-commerce and financial d
 
 ---
 
-### 🟦 Monetary Policy Transmission Analysis
+### Monetary Policy Transmission Analysis
 - Modeled macro impact using regression & VAR  
 - Identified VIX as strongest driver  
 - Captured lagged Fed impact (1–2 periods)  
