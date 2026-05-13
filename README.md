@@ -48,7 +48,7 @@ Turning data into actionable business insights across e-commerce and financial d
 
 ## ⚙️ Tech Stack
 
-SQL • Excel • Power BI • Python • BigQuery
+SQL • Excel • Power BI • Python 
 
 ## 📬 Connect With Me
 
