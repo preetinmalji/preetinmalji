@@ -21,7 +21,7 @@ Turning data into actionable business insights across e-commerce and financial d
 - SQL (Joins, Aggregations)  
 - Excel (Pivot Tables, Lookups)  
 - Power BI (Dashboards, KPI Tracking)  
-- Python (Pandas – Basic)  
+- Python (Pandas, NumPy, Data Analysis)  
 
 **Business Analysis**
 - Funnel Analysis  
